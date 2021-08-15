@@ -1,2 +1,2 @@
 # QuanLyKhachSan
-Java
+Java- NetBeans
