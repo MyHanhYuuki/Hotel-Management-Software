@@ -1,2 +1,2 @@
-# QuanLyKhachSan
+# Hotel-Management-Software
 Java- NetBeans
